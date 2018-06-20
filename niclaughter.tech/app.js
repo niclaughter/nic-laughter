@@ -1,4 +1,4 @@
-angular.module('laughter', ['ui.router'])
+angular.module('niclaughter', ['ui.router'])
     .config(function($stateProvider, $urlRouterProvider) {
         $stateProvider
             .state('home', {
