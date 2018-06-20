@@ -1,1 +1,1 @@
-# nic-laughter
+# niclaughter.tech
